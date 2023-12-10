@@ -1,9 +1,15 @@
 {
   "global": {
     "colors": {
-      "bg": {
+      "background": {
         "value": "#081828",
-        "type": "color"
+        "type": "color",
+        "description": "background base bg color"
+      },
+      "foreground": {
+        "value": "#e4e5e7",
+        "type": "color",
+        "description": "foreground color e.g. body text"
       }
     }
   },
