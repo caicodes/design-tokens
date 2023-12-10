@@ -1,6 +1,6 @@
 {
   "global": {
-    "color": {
+    "colors": {
       "bg": {
         "value": "#081828",
         "type": "color"
