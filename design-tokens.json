@@ -1,0 +1,16 @@
+{
+  "global": {
+    "color": {
+      "bg": {
+        "value": "#081828",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
