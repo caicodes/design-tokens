@@ -110,12 +110,26 @@
     "16": {
       "value": "16px",
       "type": "lineHeights"
+    },
+    "48": {
+      "value": "48",
+      "type": "lineHeights",
+      "description": "48 \n\n*must be multiple of 8"
     }
   },
   "fontWeights": {
     "bold": {
       "value": "Bold",
       "type": "fontWeights"
+    },
+    "normal": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "thin": {
+      "value": "300",
+      "type": "fontWeights",
+      "description": "font weight thin"
     }
   },
   "fontSize": {
@@ -128,6 +142,18 @@
     "0": {
       "value": "1.5",
       "type": "letterSpacing"
+    }
+  },
+  "button": {
+    "label": {
+      "value": {
+        "fontFamily": "Barlow",
+        "fontWeight": "700",
+        "fontSize": "14",
+        "lineHeight": "16"
+      },
+      "type": "typography",
+      "description": "button label text"
     }
   }
 }
